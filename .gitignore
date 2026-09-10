@@ -1,0 +1,36 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# MLflow
+mlruns/
+
+# Models
+models/*.joblib
+
+# Data
+data/*.csv
+
+# Dependencies
+venv/
+.venv/
+.env
+.env.local
+
+# Build artifacts
+*.zip
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+```
